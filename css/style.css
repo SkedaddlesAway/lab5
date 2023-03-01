@@ -1,0 +1,22 @@
+tbody td{
+  padding: 15px 10px;
+  text-align: center;
+}
+
+tbody tr:nth-child(odd){
+  background-color: #1d3f5c;
+  color: white;
+}
+tbody tr:nth-child(even){
+  background-color: black;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body{
+  background-color:azure;
+}
